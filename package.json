@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "name": "vue-template-wrapper",
+    "description": "Wrap source in <template />",
+    "keywords": [
+        "vue",
+        "template",
+        "wrap",
+        "wrapper",
+        "svg"
+    ],
+    "author": "dmtkpv",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dmtkpv/vue-template-wrapper.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dmtkpv/vue-template-wrapper/issues"
+    },
+    "homepage": "https://github.com/dmtkpv/vue-template-wrapper#readme"
+}
