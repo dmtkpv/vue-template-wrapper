@@ -7,6 +7,10 @@ module.exports = function (source) {
 ```
 ## Using with webpack
 
+```
+npm i vue-template-wrapper -D
+```
+
 _webpack.config.js_
 ```js
 rules: [
